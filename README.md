@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suhas Reddy Nemali
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Python, .Net .
+- 💞️ I’m looking to collaborate on Python, .Net , Java .
 - 📫 How to reach me suhas.u96@gmail.com
 
 <!---
